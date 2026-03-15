@@ -11,6 +11,12 @@ Este é um projeto didático desenvolvido em Java para simular as operações b�
 
 ## 🛠️ Tecnologias Utilizadas
 
-* **Java JDK 23** (ou superior)
+* **Java JDK 17** (ou superior)
 * **Lógica de Programação**
 * **Encapsulamento** (Atributos privados e métodos públicos)
+
+## 📦 Como Executar
+
+1. Clone o repositório:
+   ```bash
+   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
