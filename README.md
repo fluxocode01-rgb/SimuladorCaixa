@@ -11,7 +11,7 @@ Este é um projeto didático desenvolvido em Java para simular as operações b�
 
 ## 🛠️ Tecnologias Utilizadas
 
-* **Java JDK 17** (ou superior)
+* **Java JDK 23** (ou superior)
 * **Lógica de Programação**
 * **Encapsulamento** (Atributos privados e métodos públicos)
 
@@ -19,4 +19,4 @@ Este é um projeto didático desenvolvido em Java para simular as operações b�
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+   git clone [https://github.com/fluxocode01-rgb/SimuladorCaixa.git](https://github.com/fluxocode01-rgb/SimuladorCaixa.git)
